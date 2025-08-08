@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am interested in low-level development for stm32, esp32, ATMega and PIC microcontrollers, but I also have experience in full-stack development on JS/TS, React, Next.js, Nest.js and in other areas<br>and technologies 
+I am interested in low-level development for stm32, esp32, ATMega and PIC microcontrollers, but I also have experience in full-stack development on JS/TS, React, Next.js, Nest.js and in other areas and technologies 
 
 
 ## 🌐 Socials:
